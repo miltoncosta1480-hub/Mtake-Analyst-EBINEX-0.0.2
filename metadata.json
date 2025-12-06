@@ -1,0 +1,5 @@
+{
+  "name": "Mtake Analyst EBINEX 0.0.2",
+  "description": "Uma aplicação de análise técnica avançada que utiliza a API Gemini 3 Pro para prever tendências do Bitcoin com base em dados REAIS da Binance (BTC/USDT).",
+  "requestFramePermissions": []
+}
